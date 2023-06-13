@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](./banner.png)
 
 ### Hi there 👋, my name is Sourabh Sah
