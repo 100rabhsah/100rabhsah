@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Banner](./banner.png)
 
 <!--
 **100rabhsah/100rabhsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
