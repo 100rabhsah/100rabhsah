@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 
 ### Hi there 👋, my name is Sourabh Sah
-I'm Sourabh Sah, a dedicated and results-driven professional with 1.8 years of experience in the technology industry. I had the privilege of working at Tech Mahindra, a renowned multinational technology company, where I gained valuable insights and hands-on experience in my field
+I'm Sourabh Sah, a dedicated and results-driven professional with 2 years of experience in the technology industry. I had the privilege of working at Tech Mahindra, a renowned multinational technology company, where I gained valuable insights and hands-on experience in my field
 
 Skills: C++, HTML, CSS, JS, REACT
 
