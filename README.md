@@ -5,29 +5,12 @@ I am a Master’s student at IIIT Ranchi, specializing in Computer Science and E
 
 During my tenure at Tech Mahindra, I collaborated with cross-functional teams and worked on impactful projects. My background in Electronics and Communication, coupled with a minor in Computer Science, has given me a strong foundation in both hardware and software domains.
 
-I thrive on building machine learning solutions that make a real-world impact. I’ve developed a Retail Price Optimization solution that increased profit margins by using MLOps techniques, and a Diabetes Prediction System, showcasing my expertise in predictive modeling and data analysis.
-
 I am skilled in Python, Django, TensorFlow, Pandas, SQL, and cloud platforms like AWS. My technical toolkit also includes version control with Git, Linux, and PL/SQL. Certified in Machine Learning with Python, I constantly seek to enhance my skills and stay up-to-date with the latest trends in AI and data science.
 
 I believe in giving back to the tech community by participating in knowledge-sharing events, workshops, and seminars. Open to opportunities that allow me to apply my data science expertise and collaborate with like-minded professionals worldwide.
 
-For collaborations or opportunities: 
-
-Technical Profiles:
-
-GitHub: 
-LeetCode: 
-LinkedIn: 
-Skills:
-Languages: Python
-Development: Web Scraping, Natural Language Processing, Machine Learning, Backend Development
-Tools/Frameworks: Django, Pycharm, Visual Studio
-Areas of Interest: Machine Learning, Data Analysis, Natural Language Processing
-General: Data Structures, Algorithm, OOPs with Python
-Others: Heroku, Github, Git, TensorFlow, Rest APIs
-
 - 🌱 I’m currently learning Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on web dev projects 
+- 👯 I’m looking to collaborate on ML/AI/web dev projects 
 - 📫 How to reach me: twitter.com/dev_100rabh 
 - ⚡ Fun fact: I am an enthusiastic fitness enthusiast and have completed multiple half marathons. Running has become my go-to activity for both physical and mental well-being. 
 
