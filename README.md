@@ -1,9 +1,30 @@
 ![Banner](./banner.png)
 
 ### Hi there 👋, my name is Sourabh Sah
-I'm Sourabh Sah, a dedicated and results-driven professional with 2 years of experience in the technology industry. I had the privilege of working at Tech Mahindra, a renowned multinational technology company, where I gained valuable insights and hands-on experience in my field
+I am a Master’s student at IIIT Ranchi, specializing in Computer Science and Engineering with a focus on Data Science and AI. With 2 years of experience as a Software Engineer at Tech Mahindra, I am passionate about leveraging technology to solve complex problems and drive innovation.
 
-Skills: C++, HTML, CSS, JS, REACT
+During my tenure at Tech Mahindra, I collaborated with cross-functional teams and worked on impactful projects. My background in Electronics and Communication, coupled with a minor in Computer Science, has given me a strong foundation in both hardware and software domains.
+
+I thrive on building machine learning solutions that make a real-world impact. I’ve developed a Retail Price Optimization solution that increased profit margins by using MLOps techniques, and a Diabetes Prediction System, showcasing my expertise in predictive modeling and data analysis.
+
+I am skilled in Python, Django, TensorFlow, Pandas, SQL, and cloud platforms like AWS. My technical toolkit also includes version control with Git, Linux, and PL/SQL. Certified in Machine Learning with Python, I constantly seek to enhance my skills and stay up-to-date with the latest trends in AI and data science.
+
+I believe in giving back to the tech community by participating in knowledge-sharing events, workshops, and seminars. Open to opportunities that allow me to apply my data science expertise and collaborate with like-minded professionals worldwide.
+
+For collaborations or opportunities: 
+
+Technical Profiles:
+
+GitHub: 
+LeetCode: 
+LinkedIn: 
+Skills:
+Languages: Python
+Development: Web Scraping, Natural Language Processing, Machine Learning, Backend Development
+Tools/Frameworks: Django, Pycharm, Visual Studio
+Areas of Interest: Machine Learning, Data Analysis, Natural Language Processing
+General: Data Structures, Algorithm, OOPs with Python
+Others: Heroku, Github, Git, TensorFlow, Rest APIs
 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on web dev projects 
