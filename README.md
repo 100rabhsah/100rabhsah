@@ -11,11 +11,11 @@ I believe in giving back to the tech community by participating in knowledge-sha
 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on ML/AI/web dev projects 
-- 📫 How to reach me: twitter.com/dev_100rabh 
-- ⚡ Fun fact: I am an enthusiastic fitness enthusiast and have completed multiple half marathons. Running has become my go-to activity for both physical and mental well-being. 
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/100rabhsah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourabhsah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dev_100rabh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/100rabhsah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourabhsah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]()  
 
 
 
